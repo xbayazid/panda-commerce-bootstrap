@@ -1,0 +1,29 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Common CSS */
+*{
+    font-family: 'Poppins', sans-serif;
+    border: 0;
+    padding: 0;
+}
+
+.info-background{
+    background-color: #fceae8;
+}
+
+.header-color{
+    color: #ff136f;
+}
+
+.panda-button{
+    background-color: #ff2e81;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.categories img{
+    width: 100px;
+}
